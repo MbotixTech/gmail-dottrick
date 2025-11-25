@@ -2,7 +2,8 @@
 
 A premium, privacy-focused Gmail dot trick generator built with modern web technologies. Create thousands of email aliases instantly for testing, development, or managing multiple accounts.
 
-![Project Preview](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop)
+<img width="835" height="848" alt="image" src="https://github.com/user-attachments/assets/b98a315d-0966-4dc2-b169-4b874e62aca5" />
+
 
 ## ✨ Features
 
@@ -36,7 +37,7 @@ A premium, privacy-focused Gmail dot trick generator built with modern web techn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gmail-dottrick.git
+   git clone https://github.com/MbotixTech/gmail-dottrick.git
    ```
 
 2. Install dependencies:
